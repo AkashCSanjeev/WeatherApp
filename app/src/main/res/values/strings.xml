@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="wind">Wind:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="min_temp">Min Temp:</string>
+    <string name="max_temp">Max Temp:</string>
+    <string name="sunrise">SunRise:</string>
+    <string name="sunset">SunSet:</string>
+    <string name="uv_radiation">UV Radiation:</string>
+    <string name="pressure">Pressure:</string>
+</resources>
