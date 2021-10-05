@@ -8,4 +8,9 @@
     <string name="sunset">SunSet:</string>
     <string name="uv_radiation">UV Radiation:</string>
     <string name="pressure">Pressure:</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="weather_app">Weather App</string>
+    <string name="by_akash">- by Akash</string>
 </resources>

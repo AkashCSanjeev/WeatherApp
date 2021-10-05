@@ -47,7 +47,7 @@ public class NotificationBroadcast extends BroadcastReceiver {
         String longitude = sharedPreferences.getString("longitude","0");
 
 
-        String url = "https://api.openweathermap.org/data/2.5/onecall?lat=" + latitude + "&lon=" + longitude + "&exclude=hourly,minutely&appid=[YOUR-API-ID]";
+        String url = "https://api.openweathermap.org/data/2.5/onecall?lat=" + latitude + "&lon=" + longitude + "&exclude=hourly,minutely&appid=23a8bfead0f4e2fa861e837a0f7fcc33";
 
         Intent notificationIntent = new Intent(context,MainActivity.class);
         notificationIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
